@@ -10,7 +10,4 @@ public class DbTest {
 		System.out.println( 1 + 2);
 	}
 	
-	public static void subtract(int a, int b) {
-		System.out.println(a-b);
-	}
 }
