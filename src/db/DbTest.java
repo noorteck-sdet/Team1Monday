@@ -3,8 +3,8 @@ package db;
 public class DbTest {
 
 	public static void main(String[] args) {
-	
-	System.out.println("Arithmetic Operations");	
+
+		System.out.println("Arithmetic Operations");
 
 	}
 
@@ -15,4 +15,13 @@ public class DbTest {
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
+
+	public static void multiply(int a, int b) {
+		System.out.println(a * b);
+	}
+
+	public static void divide(int a, int b) {
+		System.out.println(a / b);
+	}
+
 }
